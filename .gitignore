@@ -1,1 +1,8 @@
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcworkspace/contents.xcworkspacedata
+.DS_Store
 /box2d-read-only
+/build
+/library
+
